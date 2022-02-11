@@ -1,0 +1,3 @@
+Aqui está meu primeiro repositório no GitHub
+Entendi como funciona a tecnologia do Git por debaixo dos panos e 
+comandos básicos do dia a dia.
